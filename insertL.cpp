@@ -1,8 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
-class node{
-    
-}
+class Node{
+    public:
+        int data;
+        Node *next;
+};
 
 
 
